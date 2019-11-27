@@ -1,0 +1,15 @@
+{
+  "name": "dyagur/amo-bepaid-intgration",
+  "description": "Simple integration with AmoCrm and BePaid",
+  "type": "project",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {
+
+  },
+  "autoload": {
+    "psr-4": {
+      "AmoClient": "src/"
+    }
+  }
+}
